@@ -1,4 +1,4 @@
-/* to find minimum and maximum of array in java */
+/* to find minimum and maximum of array in java  with less number of comparisions*/
 
 
 public class test {
